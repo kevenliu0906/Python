@@ -1,5 +1,6 @@
 # Python
 Self-Study for Python
+simple python sourceCode for parser the specific string in website
 
 #On-line Compiler for Python
 #Colab for Google
